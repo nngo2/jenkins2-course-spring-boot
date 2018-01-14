@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent  -->
-		<!-- Need to run mvn install for Spring Boot  1.4.0 so that spring-boot-samples is available  ...-->
+		<!-- Need to run mvn install for Spring Boot  1.4.0 so that spring-boot-samples is available  -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
 		<version>1.4.0.BUILD-SNAPSHOT</version>
